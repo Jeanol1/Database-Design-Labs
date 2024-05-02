@@ -1,0 +1,1 @@
+Hello, in this dispository we have 4 featured lab assignment where we used different coding methods to create cells with google collab. In lab 4 you have the overview background of coding a transaction as it would appear on a receipt. 
